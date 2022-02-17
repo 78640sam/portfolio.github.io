@@ -87,6 +87,16 @@
     transform:scale(1.07) ;
     transition: 1s ease-out;
 }
+#project-links{
+    height:50px;
+    width:125px;
+    background-color: transparent;
+    display:flex;
+    font-weight: bold;
+    border:none;
+ 
+
+}
 /* @media screen and (max-width:1020px) {
     .texttackDiv{
         display: grid;

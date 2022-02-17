@@ -20,8 +20,8 @@ export const Project = () => {
                         <h3>intern Theroy Clone</h3>
                         <p>InternTheory is an online internship portal created to bridge the gap between students seeking internships and companies looking for interns.</p>
                         <div className="links">
-                            <a target="_blank" rel="noopener noreferrer" href="https://github.com/78640sam/intern_theory.github.io.git"><FaGithubSquare className='social-media-icon' /></a>
-                            <a target="_blank" rel="noopener noreferrer" href="https://intern-theory-clone.vercel.app/"><FaLink className='social-media-icon' /></a>
+                        <button id="project-links" class="social-media-icon">      <a target="_blank" rel="noopener noreferrer" href="https://github.com/78640sam/intern_theory.github.io.git"><FaGithubSquare className='social-media-icon' /></a>Show Code </button> 
+                        <button id="project-links" class="social-media-icon">    <a target="_blank" rel="noopener noreferrer" href="https://intern-theory-clone.vercel.app/"><FaLink className='social-media-icon' /></a>Show live </button> 
                         </div>
                         <div className="langDiv">
                             <p className="techstack">Tech Stack :</p>
@@ -44,8 +44,8 @@ export const Project = () => {
                         <h3>Juicy Chemistry Clone</h3>
                         <p>100% organic skin care products in india certified by Ecocert, Order online now in India for your best skin care and experience the proven results.</p>
                         <div className="links">
-                            <a target="_blank" rel="noopener noreferrer" href="https://github.com/78640sam/jc.github.io.git"><FaGithubSquare className='social-media-icon' /></a>
-                            <a target="_blank" rel="noopener noreferrer" href="https://78640sam.github.io/jc.github.io/"><FaLink className='social-media-icon' /></a> 
+                        <button id="project-links" class="social-media-icon">    <a target="_blank" rel="noopener noreferrer" href="https://github.com/78640sam/jc.github.io.git"><FaGithubSquare className='social-media-icon' /></a>Show Code </button> 
+                        <button id="project-links" class="social-media-icon">    <a target="_blank" rel="noopener noreferrer" href="https://78640sam.github.io/jc.github.io/"><FaLink className='social-media-icon' /></a> Show live </button> 
                         </div>
                         <div className="langDiv">
                             <p className="techstack">Tech Stack :</p>
@@ -71,8 +71,8 @@ export const Project = () => {
                         <h3>Expedia Clone</h3>
                         <p>A web application to Check out Expedia's daily travel deals & promotions.</p>
                         <div className="links">
-                            <a target="_blank" rel="noopener noreferrer" href="https://github.com/78640sam/expedia.github.io.git"><FaGithubSquare className='social-media-icon' /></a>
-                            <a target="_blank" rel="noopener noreferrer" href="facebook.com"><FaLink className='social-media-icon' /></a>
+                         <button id="project-links" class="social-media-icon">  <a target="_blank" rel="noopener noreferrer" href="https://github.com/78640sam/expedia.github.io.git"><FaGithubSquare className='social-media-icon' /> </a> Show Code </button> 
+                         <button id="project-links" class="social-media-icon">   <a target="_blank" rel="noopener noreferrer" href="facebook.com"><FaLink className='social-media-icon' /></a>Show live </button> 
                         </div>
                         <div className="langDiv">
                             <p className="techstack">Tech Stack :</p>
@@ -93,15 +93,15 @@ export const Project = () => {
             
 
 
-                <div className="projectCardDiv secProject">
+                {/* <div className="projectCardDiv secProject">
                     <div className="projectDetail">
                         <h3>Youtube clone</h3>
                         <p>Youtube is the 2nd largest search engine next to Google.
                 People upload more than 100 hours of videos per minute to YouTube.
                         </p>
                         <div className="links">
-                            <a target="_blank" rel="noopener noreferrer" href="https://github.com/78640sam/youtube.github.io.git"><FaGithubSquare className='social-media-icon' /></a>
-                            <a target="_blank" rel="noopener noreferrer" href="facebook.com"><FaLink className='social-media-icon' /></a>
+                        <button id="project-links" class="social-media-icon">    <a target="_blank" rel="noopener noreferrer" href="https://github.com/78640sam/youtube.github.io.git"><FaGithubSquare className='social-media-icon' /></a>Show Code </button> 
+                        <button id="project-links" class="social-media-icon">    <a target="_blank" rel="noopener noreferrer" href="facebook.com"><FaLink className='social-media-icon' /></a>Show live </button> 
                         </div>
                         <div className="langDiv">
                             <p className="techstack">Tech Stack :</p>
@@ -116,7 +116,7 @@ export const Project = () => {
                     <div className="projectImg">
                         <img src=".././images/youtube.jpg" alt="" />
                     </div>
-                </div>
+                </div> */}
             </div>
         </>
     );
