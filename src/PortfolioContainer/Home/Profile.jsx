@@ -14,7 +14,7 @@ export default function Profile() {
                     <div className="row  "  >
                         <div className="col-md-12" style={{margin:"0px" ,padding :"0px"}} >
                             
-                            <Navbar  expand="lg" className="myNav" >
+                            <Navbar  expand="lg" className="myNav" fixed="top" >
                                 <Container fluid>
                                     <Navbar.Brand href="#home">
                                         
