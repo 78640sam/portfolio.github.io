@@ -23,7 +23,7 @@ export default function Resume() {
                             <div className="skillcardMain">
                                 <div className="skillCard">
                                 <p style={{fontWeight:"bolder"}}>HTML</p>
-                                    <img style={{marginTop:"-17px"}} src={htmlIcon} alt="" />
+                                    <img style={{marginTop:"-17px"}} src={htmlIcon} alt=""  />
                                 </div>
                                 <div className="skillCard">
                                 <p style={{fontWeight:"bolder"}}>CSS</p>

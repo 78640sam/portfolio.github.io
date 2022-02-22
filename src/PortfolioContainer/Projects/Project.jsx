@@ -20,8 +20,8 @@ export const Project = () => {
                         <h3>intern Theroy Clone</h3>
                         <p>This is a team project where we worked on cloning the Intern Theory website. This website is helful in solving the internship problem between both companies and students by connecting them in a effective manner. We have built this using HTML, CSS, JavaScript and Express JS.</p>
                         <div className="links">
-                        <button id="project-links" class="social-media-icon">      <a target="_blank" rel="noopener noreferrer" href="https://github.com/78640sam/intern_theory.github.io.git"><FaGithubSquare className='social-media-icon' /></a>Show Code </button> 
-                        <button id="project-links" class="social-media-icon">    <a target="_blank" rel="noopener noreferrer" href="https://intern-theory-clone.vercel.app/"><FaLink className='social-media-icon' /></a>Show live </button> 
+                        <a target="_blank" rel="noopener noreferrer"  class="project-link-1" href="https://github.com/78640sam/intern_theory.github.io.git"> <button id="project-links" class="social-media-icon">     <FaGithubSquare className='' />Show Code </button> </a>
+                        <a target="_blank" rel="noopener noreferrer"   class="project-link-1" href="https://intern-theory-clone.vercel.app/"> <button id="project-links" class="social-media-icon">    <FaLink className='' />Show live </button> </a>
                         </div>
                         <div className="langDiv">
                             <p className="techstack">Tech Stack :</p>
@@ -44,8 +44,8 @@ export const Project = () => {
                         <h3>Juicy Chemistry Clone</h3>
                         <p>100% organic skin care products in india certified by Ecocert, Order online now in India for your best skin care and experience the proven results. Juicy Chemistry was born of Pritesh and Megha Asher’s relentless ability to question everything they knew about the world of beauty and personal care. </p>
                         <div className="links">
-                        <button id="project-links" class="social-media-icon">    <a target="_blank" rel="noopener noreferrer" href="https://github.com/78640sam/jc.github.io.git"><FaGithubSquare className='social-media-icon' /></a>Show Code </button> 
-                        <button id="project-links" class="social-media-icon">    <a target="_blank" rel="noopener noreferrer" href="https://78640sam.github.io/jc.github.io/"><FaLink className='social-media-icon' /></a> Show live </button> 
+                        <a target="_blank" rel="noopener noreferrer"   class="project-link-1"  href="https://github.com/78640sam/jc.github.io.git">  <button id="project-links" class="social-media-icon">    <FaGithubSquare className='' />Show Code </button> </a>
+                        <a target="_blank" rel="noopener noreferrer"     class="project-link-1"  href="https://78640sam.github.io/jc.github.io/"> <button id="project-links" class="social-media-icon">    <FaLink className='' /> Show live </button> </a>
                         </div>
                         <div className="langDiv">
                             <p className="techstack">Tech Stack :</p>
@@ -71,8 +71,8 @@ export const Project = () => {
                         <h3>Expedia Clone</h3>
                         <p>A web application to Check out Expedia's daily travel deals & promotions. A web application to Check out Expedia's daily travel deals & promotions. Expedia is one of the world's leading full-service online travel brands helping travelers easily plan and book their whole trip with the widest selection of vacation packages, flights, hotels, vacation rentals, rental cars, cruises, activities, attractions, and services.</p>
                         <div className="links">
-                         <button id="project-links" class="social-media-icon">  <a target="_blank" rel="noopener noreferrer" href="https://github.com/78640sam/expediaclone.github.io.git"><FaGithubSquare className='social-media-icon' /> </a> Show Code </button> 
-                         <button id="project-links" class="social-media-icon">   <a target="_blank" rel="noopener noreferrer" href="https://expediaclone-github-io.vercel.app/"><FaLink className='social-media-icon' /></a>Show live </button> 
+                        <a target="_blank" rel="noopener noreferrer"   class="project-link-1" href="https://github.com/78640sam/expediaclone.github.io.git">   <button id="project-links" class="social-media-icon"> <FaGithubSquare className='' /> Show Code </button>  </a>
+                        <a target="_blank" rel="noopener noreferrer"    class="project-link-1" href="https://expediaclone-github-io.vercel.app/">  <button id="project-links" class="social-media-icon">  <FaLink className='' />Show live </button> </a>
                         </div>
                         <div className="langDiv">
                             <p className="techstack">Tech Stack :</p>
