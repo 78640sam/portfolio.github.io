@@ -71,8 +71,8 @@ export const Project = () => {
                         <h3>Expedia Clone</h3>
                         <p>A web application to Check out Expedia's daily travel deals & promotions. A web application to Check out Expedia's daily travel deals & promotions. Expedia is one of the world's leading full-service online travel brands helping travelers easily plan and book their whole trip with the widest selection of vacation packages, flights, hotels, vacation rentals, rental cars, cruises, activities, attractions, and services.</p>
                         <div className="links">
-                         <button id="project-links" class="social-media-icon">  <a target="_blank" rel="noopener noreferrer" href="https://github.com/78640sam/expedia.github.io.git"><FaGithubSquare className='social-media-icon' /> </a> Show Code </button> 
-                         <button id="project-links" class="social-media-icon">   <a target="_blank" rel="noopener noreferrer" href="facebook.com"><FaLink className='social-media-icon' /></a>Show live </button> 
+                         <button id="project-links" class="social-media-icon">  <a target="_blank" rel="noopener noreferrer" href="https://github.com/78640sam/expediaclone.github.io.git"><FaGithubSquare className='social-media-icon' /> </a> Show Code </button> 
+                         <button id="project-links" class="social-media-icon">   <a target="_blank" rel="noopener noreferrer" href="https://expediaclone-github-io.vercel.app/"><FaLink className='social-media-icon' /></a>Show live </button> 
                         </div>
                         <div className="langDiv">
                             <p className="techstack">Tech Stack :</p>
