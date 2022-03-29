@@ -14,10 +14,33 @@ export const Project = () => {
 
 
                 
-
                 <div className="projectCardDiv secProject">
                     <div className="projectDetail">
                         <h3>intern Theroy Clone</h3>
+                        <p>This is a team project where we worked on cloning the Intern Theory website. This website is helful in solving the internship problem between both companies and students by connecting them in a effective manner. We have built this using HTML, CSS, JavaScript and Express JS.</p>
+                        <div className="links">
+                        <a target="_blank" rel="noopener noreferrer"  class="project-link-1" href="https://github.com/78640sam/intern_theory.github.io.git"> <button id="project-links" class="social-media-icon">     <FaGithubSquare className='' />Show Code </button> </a>
+                        <a target="_blank" rel="noopener noreferrer"   class="project-link-1" href="https://intern-theory-clone.vercel.app/"> <button id="project-links" class="social-media-icon">    <FaLink className='' />Show live </button> </a>
+                        </div>
+                        <div className="langDiv">
+                            <p className="techstack">Tech Stack :</p>
+                            <div className="texttackDiv">
+                            <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="" />
+                                <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="" />
+                                <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="" />
+                                <img src="" alt="" />
+
+                            </div>
+                        </div>
+                    </div>
+                    <div className="projectImg secProjectImg">
+                        <img src=".././images/p4.png" alt="" />
+                    </div>
+                </div>
+
+                <div className="projectCardDiv secProject">
+                    <div className="projectDetail">
+                        <h3>Intern Theroy Clone</h3>
                         <p>This is a team project where we worked on cloning the Intern Theory website. This website is helful in solving the internship problem between both companies and students by connecting them in a effective manner. We have built this using HTML, CSS, JavaScript and Express JS.</p>
                         <div className="links">
                         <a target="_blank" rel="noopener noreferrer"  class="project-link-1" href="https://github.com/78640sam/intern_theory.github.io.git"> <button id="project-links" class="social-media-icon">     <FaGithubSquare className='' />Show Code </button> </a>
