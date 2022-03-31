@@ -13,14 +13,14 @@ export const Project = () => {
 
 
 
-{/*                 
+              
                 <div className="projectCardDiv secProject">
                     <div className="projectDetail">
                         <h3>Vrbo Clone</h3>
                         <p>Vrbo is an American vacation rental online marketplace originally known as Vacation Rentals by Owner or VRBO. It was acquired by HomeAway in 2006. Expedia Group acquired HomeAway on December 15, 2015.</p>
                         <div className="links">
-                        <a target="_blank" rel="noopener noreferrer"  class="project-link-1" href="https://github.com/78640sam/intern_theory.github.io.git"> <button id="project-links" class="social-media-icon">     <FaGithubSquare className='' />Show Code </button> </a>
-                        <a target="_blank" rel="noopener noreferrer"   class="project-link-1" href="https://intern-theory-clone.vercel.app/"> <button id="project-links" class="social-media-icon">    <FaLink className='' />Show live </button> </a>
+                        <a target="_blank" rel="noopener noreferrer"  class="project-link-1" href="https://github.com/78640sam/vrbo-clone.git"> <button id="project-links" class="social-media-icon">     <FaGithubSquare className='' />Show Code </button> </a>
+                        <a target="_blank" rel="noopener noreferrer"   class="project-link-1" href="https://vrbo-clone-unit5.netlify.app/"> <button id="project-links" class="social-media-icon">    <FaLink className='' />Show live </button> </a>
                         </div>
                         <div className="langDiv">
                             <p className="techstack">Tech Stack :</p>
@@ -36,7 +36,7 @@ export const Project = () => {
                     <div className="projectImg secProjectImg">
                         <img src=".././images/p4.png" alt="" />
                     </div>
-                </div> */}
+                </div> 
 
                 <div className="projectCardDiv secProject">
                     <div className="projectDetail">
