@@ -14,6 +14,7 @@ export default function AboutMe() {
                         <p> Hii, I am Shubham Mishra, I have completed Graduatation in BCA from College Of Management Studies which is affilated by chhatrapati shahu ji maharaj university Kanpur Uttar Pradesh
 and trained in Masai school with diverse set of skills ranging from HTML, CSS, JavaScript,
                         ReactJs to ExpressJs, MongoDB, NodeJs and built several projects solo as well as collaboratively.
+       
 
                           
 
