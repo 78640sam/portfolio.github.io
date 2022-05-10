@@ -4,6 +4,7 @@ import htmlIcon from '../assets/htmlIcon.svg'
 import cssIcon from '../assets/cssIcon.svg'
 import jsIcon from '../assets/jsIcon.svg'
 import reactIcon from '../assets/reactIcon.svg'
+import reduxIcon from '../assets/reduxIcon.svg'
 import expressIcon from '../assets/expressIcon.svg'
 import nodeIcon from '../assets/nodeIcon.svg'
 import mongoIcon from '../assets/mongoIcon.svg'
@@ -37,6 +38,11 @@ export default function Resume() {
                                 <div className="skillCard">
                                     <p style={{fontWeight:"bolder"}}>REACT</p>
                                     <img style={{marginTop:"-10px",width:"90%"}} src={reactIcon} alt="" />
+                                </div>
+
+                                <div className="skillCard">
+                                    <p style={{fontWeight:"bolder"}}>REDUX</p>
+                                    <img style={{marginTop:"-10px",width:"90%"}} src={reduxIcon} alt="" />
                                 </div>
                             </div>
 
