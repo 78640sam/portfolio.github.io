@@ -83,10 +83,10 @@ export const Project = () => {
                     </div>
                     <div className="projectImg">
                         <img src=".././images/p1.png" alt="" />
-                       
+                  
+     
                     </div>
                 </div>
-
 
 
                 <div className="projectCardDiv secProject">
