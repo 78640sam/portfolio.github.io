@@ -66,7 +66,7 @@ export const Project = () => {
                     </div>
                 </div> 
 
-                <div className="projectCardDiv secProject">
+                {/* <div className="projectCardDiv secProject">
                     <div className="projectDetail">
                         <h3>Intern Theroy Clone</h3>
                         <p>This is a team project where we worked on cloning the Intern Theory website. This website is helful in solving the internship problem between both companies and students by connecting them in a effective manner. We have built this using HTML, CSS, JavaScript and Express JS.</p>
@@ -88,7 +88,7 @@ export const Project = () => {
                     <div className="projectImg secProjectImg">
                         <img src=".././images/p3.png" alt="" />
                     </div>
-                </div>
+                </div> */}
 
                 <div className="projectCardDiv">
                     <div className="projectDetail">
